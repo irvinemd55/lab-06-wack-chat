@@ -1,0 +1,24 @@
+{
+  "name": "lab-06-wack-chat",
+  "version": "1.0.0",
+  "description": "401 JS --  Lab 06 wack chat ===",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irvinemd55/lab-06-wack-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irvinemd55/lab-06-wack-chat/issues"
+  },
+  "homepage": "https://github.com/irvinemd55/lab-06-wack-chat#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
